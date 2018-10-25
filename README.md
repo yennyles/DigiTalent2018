@@ -1,2 +1,2 @@
 # DigiTalent2018
-Repo For Digitalent 2018 
+Repo untuk kegiatan pelatihan Digitalent Scholarship 2018  
